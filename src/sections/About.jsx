@@ -45,15 +45,15 @@ export default function About() {
         <div className="about__image-wrap">
           <div className="about__image">
             <img
-              src="https://images.pexels.com/photos/3338681/pexels-photo-3338681.jpeg?auto=compress&cs=tinysrgb&w=1280"
-              alt="Japanese sushi craft"
+              src="https://images.unsplash.com/photo-1562802378-063ec186a863?w=1280&q=85"
+              alt="Sashimi platter"
               loading="lazy"
             />
           </div>
           <div className="about__image about__image--offset">
             <img
-              src="https://images.pexels.com/photos/1148086/pexels-photo-1148086.jpeg?auto=compress&cs=tinysrgb&w=1280"
-              alt="Sushi platter"
+              src="https://images.unsplash.com/photo-1553621042-f6e147245754?w=1280&q=85"
+              alt="Sushi assortment"
               loading="lazy"
             />
           </div>
