@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "about": "About",
+    "menu": "Menu",
+    "location": "Location",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Authentic Japanese Cuisine Crafted by 30 Years of Mastery",
+    "cta": "View Menu"
+  },
+  "about": {
+    "title": "About Misong Sushi",
+    "since": "Est. 2009",
+    "desc1": "美松 — Beautiful Pine. Like a pine tree standing firm through seasons, Misong preserves an unwavering dedication to the art of authentic Japanese cuisine.",
+    "desc2": "Every piece of sushi crafted by our chef reflects over 30 years of refined skill — from the meticulous selection of the freshest ingredients to the final presentation, each step is guided solely by the hands of a true artisan.",
+    "desc3": "Where the depth of traditional Japanese cuisine meets contemporary elegance, Misong Sushi invites you to experience a truly extraordinary dining moment.",
+    "career": "30+ Years Experience",
+    "since_label": "Established",
+    "specialty": "Authentic Japanese Cuisine"
+  },
+  "menu": {
+    "title": "Menu",
+    "lunch": "Lunch Special",
+    "course": "Course Menu",
+    "ala_carte": "À la Carte",
+    "items": {
+      "lunch_a": "Lunch Special A",
+      "lunch_b": "Lunch Special B",
+      "course_b": "Course B",
+      "course_a": "Course A",
+      "special_a": "Special Course A",
+      "special_b": "Special Course B",
+      "sushi_a": "Assorted Sushi (S)",
+      "sushi_b": "Assorted Sushi (L)",
+      "eel": "Eel Sushi",
+      "inari": "Inari Sushi"
+    },
+    "note": "* Prices and menu items are subject to change without prior notice."
+  },
+  "location": {
+    "title": "Location",
+    "address": "14 Saessak-ro 29beon-gil, Busanjin-gu, Busan",
+    "address_full": "Misong Sushi, 1F",
+    "directions": "Get Directions"
+  },
+  "contact": {
+    "title": "Contact",
+    "phone": "Reservations",
+    "hours": "Business Hours",
+    "hours_detail": "Mon – Sat  10:00 – 22:00",
+    "closed": "Regular Holiday",
+    "closed_detail": "Every Sunday",
+    "call_now": "Call Now"
+  },
+  "footer": {
+    "copy": "© 2024 美松 Sushi. All Rights Reserved.",
+    "address": "14 Saessak-ro 29beon-gil, Busanjin-gu, Busan, 1F Misong Sushi"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "about": "소개",
+    "menu": "메뉴",
+    "location": "위치",
+    "contact": "문의"
+  },
+  "hero": {
+    "subtitle": "30년 장인의 손끝에서 피어나는 정통 일식의 깊은 맛",
+    "cta": "메뉴 보기"
+  },
+  "about": {
+    "title": "미송초밥 소개",
+    "since": "2009년 개업",
+    "desc1": "아름다울 미(美), 소나무 송(松). 미송초밥은 자연의 정수처럼 변하지 않는 맛과 정신을 지켜갑니다.",
+    "desc2": "주방장의 30년 이상 숙련된 경력에서 탄생하는 한 점 한 점의 초밥은, 신선한 재료 선별에서부터 완성까지 오직 장인의 손길로만 이루어집니다.",
+    "desc3": "정통 일식의 깊이와 세련된 현대적 감각이 어우러진 미송초밥에서, 특별한 식사의 순간을 경험해 보십시오.",
+    "career": "경력 30년+",
+    "since_label": "개업연도",
+    "specialty": "정통 일식 전문"
+  },
+  "menu": {
+    "title": "메뉴",
+    "lunch": "점심 특선",
+    "course": "코스 메뉴",
+    "ala_carte": "단품 메뉴",
+    "items": {
+      "lunch_a": "점심 특선 A",
+      "lunch_b": "점심 특선 B",
+      "course_b": "B 코스",
+      "course_a": "A 코스",
+      "special_a": "스페셜 코스 A",
+      "special_b": "스페셜 코스 B",
+      "sushi_a": "생선초밥 (소)",
+      "sushi_b": "생선초밥 (대)",
+      "eel": "장어초밥",
+      "inari": "유부초밥"
+    },
+    "note": "* 메뉴 및 가격은 사전 예고 없이 변경될 수 있습니다."
+  },
+  "location": {
+    "title": "위치 안내",
+    "address": "부산 부산진구 새싹로29번길 14 1층",
+    "address_full": "미송초밥",
+    "directions": "길찾기"
+  },
+  "contact": {
+    "title": "문의",
+    "phone": "전화 예약",
+    "hours": "영업시간",
+    "hours_detail": "월 ~ 토  10:00 – 22:00",
+    "closed": "정기휴무",
+    "closed_detail": "매주 일요일",
+    "call_now": "전화하기"
+  },
+  "footer": {
+    "copy": "© 2024 美松초밥. All Rights Reserved.",
+    "address": "부산 부산진구 새싹로29번길 14 1층 미송초밥"
+  }
+}
