@@ -31,8 +31,8 @@
       "course_a": "Course A",
       "special_a": "Special Course A",
       "special_b": "Special Course B",
-      "sushi_a": "Assorted Sushi (S)",
-      "sushi_b": "Assorted Sushi (L)",
+      "sushi_a": "Assorted Sushi",
+      "sushi_b": "Assorted Sushi",
       "eel": "Eel Sushi",
       "inari": "Inari Sushi"
     },
@@ -51,7 +51,8 @@
     "hours_detail": "Mon – Sat  10:00 – 22:00",
     "closed": "Regular Holiday",
     "closed_detail": "Every Sunday",
-    "call_now": "Call Now"
+    "call_now": "Call Now",
+    "address_label": "Address"
   },
   "footer": {
     "copy": "© 2024 美松 Sushi. All Rights Reserved.",

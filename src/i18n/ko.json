@@ -31,8 +31,8 @@
       "course_a": "A 코스",
       "special_a": "스페셜 코스 A",
       "special_b": "스페셜 코스 B",
-      "sushi_a": "생선초밥 (소)",
-      "sushi_b": "생선초밥 (대)",
+      "sushi_a": "생선초밥",
+      "sushi_b": "생선초밥",
       "eel": "장어초밥",
       "inari": "유부초밥"
     },
@@ -51,7 +51,8 @@
     "hours_detail": "월 ~ 토  10:00 – 22:00",
     "closed": "정기휴무",
     "closed_detail": "매주 일요일",
-    "call_now": "전화하기"
+    "call_now": "전화하기",
+    "address_label": "주소"
   },
   "footer": {
     "copy": "© 2024 美松초밥. All Rights Reserved.",

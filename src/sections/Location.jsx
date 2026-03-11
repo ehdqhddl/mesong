@@ -42,7 +42,7 @@ export default function Location() {
         <div className="location__map">
           <iframe
             title="미송초밥 위치"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3262.6!2d129.0558!3d35.1580!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356892b0e90af0c3%3A0x0!2z67aA7IKw7LKt67CU64Ko!5e0!3m2!1sko!2skr!4v1700000000000!5m2!1sko!2skr&q=%EB%B6%80%EC%82%B0%20%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC%20%EC%83%88%EC%8B%B9%EB%A1%9C29%EB%B2%88%EA%B8%B0%2014"
+            src="https://maps.google.com/maps?q=%EB%B6%80%EC%82%B0+%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC+%EC%83%88%EC%8B%B9%EB%A1%9C29%EB%B2%88%EA%B8%B0+14+%EB%AF%B8%EC%86%A1%EC%B4%88%EB%B0%A5&t=m&z=17&ie=UTF8&iwloc=B&output=embed"
             width="100%"
             height="100%"
             style={{ border: 0 }}

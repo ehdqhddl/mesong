@@ -31,8 +31,8 @@
       "course_a": "A套餐",
       "special_a": "豪华套餐 A",
       "special_b": "豪华套餐 B",
-      "sushi_a": "什锦寿司 (小)",
-      "sushi_b": "什锦寿司 (大)",
+      "sushi_a": "什锦寿司",
+      "sushi_b": "什锦寿司",
       "eel": "鳗鱼寿司",
       "inari": "稻荷寿司"
     },
@@ -51,7 +51,8 @@
     "hours_detail": "周一 至 周六  10:00 – 22:00",
     "closed": "定期休息",
     "closed_detail": "每周日",
-    "call_now": "立即致电"
+    "call_now": "立即致电",
+    "address_label": "地址"
   },
   "footer": {
     "copy": "© 2024 美松寿司. 保留所有权利.",

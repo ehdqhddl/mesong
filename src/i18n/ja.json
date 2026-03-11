@@ -31,8 +31,8 @@
       "course_a": "Aコース",
       "special_a": "スペシャルコース A",
       "special_b": "スペシャルコース B",
-      "sushi_a": "にぎり寿司 (並)",
-      "sushi_b": "にぎり寿司 (上)",
+      "sushi_a": "にぎり寿司",
+      "sushi_b": "にぎり寿司",
       "eel": "鰻寿司",
       "inari": "稲荷寿司"
     },
@@ -51,7 +51,8 @@
     "hours_detail": "月 〜 土  10:00 – 22:00",
     "closed": "定休日",
     "closed_detail": "毎週日曜日",
-    "call_now": "お電話する"
+    "call_now": "お電話する",
+    "address_label": "住所"
   },
   "footer": {
     "copy": "© 2024 美松寿司. All Rights Reserved.",

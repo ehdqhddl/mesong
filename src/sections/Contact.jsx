@@ -41,7 +41,7 @@ export default function Contact() {
 
           <div className="contact__card">
             <div className="contact__icon">&#128205;</div>
-            <h3 className="contact__card-title">Address</h3>
+            <h3 className="contact__card-title">{t('contact.address_label')}</h3>
             <p className="contact__info">부산 부산진구<br />새싹로29번길 14 1층</p>
           </div>
         </div>
