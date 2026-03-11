@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:cdn.pixabay.com)",
+      "WebFetch(domain:images.pexels.com)"
+    ]
+  }
+}

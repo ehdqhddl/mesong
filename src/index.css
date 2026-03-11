@@ -218,7 +218,7 @@ a { text-decoration: none; color: inherit; }
 .hero__bg {
   position: absolute;
   inset: 0;
-  background-image: url('https://cdn.pixabay.com/photo/2021/11/09/02/57/sushi-6781169_1280.jpg');
+  background-image: url('https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?auto=compress&cs=tinysrgb&w=1920');
   background-size: cover;
   background-position: center;
   transform: scale(1.05);
@@ -434,7 +434,7 @@ a { text-decoration: none; color: inherit; }
 .menu-section__bg {
   position: absolute;
   inset: 0;
-  background-image: url('https://cdn.pixabay.com/photo/2017/01/26/02/06/platter-2009590_1280.jpg');
+  background-image: url('https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg?auto=compress&cs=tinysrgb&w=1920');
   background-size: cover;
   background-position: center;
   filter: grayscale(60%) brightness(0.2);
